@@ -12,6 +12,7 @@ O Eletronicbuy é uma plataforma de comércio eletrônico simples, desenvolvida 
 - Carrinho de compras para adicionar e gerenciar produtos.
 
 <img src="public/assets/img/img-redme/product.png" alt=""><br>
+<img src="public/assets/img/img-redme/cart.png" alt=""><br>
 ## Pré-requisitos
 
 Certifique-se de ter o seguinte instalado no seu ambiente de desenvolvimento:
@@ -30,7 +31,7 @@ Certifique-se de ter o seguinte instalado no seu ambiente de desenvolvimento:
 4. Configure o banco de dados no arquivo `.env`.
 5. Execute as migrações para criar as tabelas do banco de dados: `php artisan migrate`
 
-<img src="public/assets/img/img-redme/cart.png" alt=""><br>
+
 
 ### Usando o Banco de Dados Simulado (helpers.php)
 
