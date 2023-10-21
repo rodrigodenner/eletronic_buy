@@ -12,7 +12,7 @@ O Eletronicbuy é uma plataforma de comércio eletrônico simples, desenvolvida 
 - Carrinho de compras para adicionar e gerenciar produtos.
 
 <img src="public/assets/img/img-redme/product.png" alt=""><br>
-<img src="public/assets/img/img-redme/cart.png" alt=""><br>
+
 ## Pré-requisitos
 
 Certifique-se de ter o seguinte instalado no seu ambiente de desenvolvimento:
@@ -46,7 +46,7 @@ Certifique-se de ter o seguinte instalado no seu ambiente de desenvolvimento:
 2. Acesse o Eletronicbuy no seu navegador: [http://localhost:8000](http://localhost:8000)
 
 
-
+<img src="public/assets/img/img-redme/cart-product.png" alt=""><br>
 ## Licença
 
 Este projeto é licenciado sob a [Sua Licença](inserir_link_para_licenca).
