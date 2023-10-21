@@ -1,0 +1,6 @@
+<?php 
+
+$layout->add('home');
+
+
+
